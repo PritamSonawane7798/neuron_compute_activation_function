@@ -7,7 +7,7 @@
     * Non-linear Activation Functions
 # Linear Activation Function
 
-<img src="/home/pritam/Documents/M_L/multiprocess/activation_functions.png" width="1000">
+<img src="images/activation_functions.png" width="1000">
 
 - A linear activation function can be use on very limited occasions. In fact to understand activation functions better it is important to look at the ordinary least-square or simply the linear regression. A linear regression aims at finding the optimal weights that results in minimal vertical effect between the explanatory and target variables, when combine with the input. In short if out expected output reflects the linear regression as shown below then linear activation functions can be used: (Top Figure).
 - But in the in the second figure below linear function will not produce the desired results:(Middle figure)
@@ -72,7 +72,7 @@
 # 3. ReLU (Rectified Linear Unit) Activation Function
 
 - The ReLU is the most used activation function in the world right now.Since, it is used in almost all the convolutional neural networks or deep learning.
-<img src="/home/pritam/Documents/M_L/multiprocess/1*XxxiA0jJvPrHEJHD4z893g.png" width="350">
+<img src="images/1*XxxiA0jJvPrHEJHD4z893g.png" width="350">
 
 - As you can see, the ReLU is half rectified (from bottom). f(z) is zero when z is less than zero and f(z) is equal to z when z is above or equal to zero.
 
@@ -116,7 +116,7 @@
 
 - tf.nn.relu6 is similar to tf.nn.relu but it limits the maximum output to 6 this limitation reduces the likelihood of a node overreacting to large inputs.
 
-<img src="/home/pritam/Documents/M_L/multiprocess/relu6.png" width="600">
+<img src="images/relu6.png" width="600">
 
 * Syntax
     ```
