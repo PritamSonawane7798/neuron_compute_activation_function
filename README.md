@@ -1,7 +1,7 @@
 ## Activation Function 
 # Linear Activation Function
 
-<img src="/home/pritam/Documents/M_L/multiprocess/activation_functions.png" width="1000">
+<img src="images/activation_functions.png" width="1000">
 
 - A linear activation function can be use on very limited occasions. In fact to understand activation functions better it is important to look at the ordinary least-square or simply the linear regression. A linear regression aims at finding the optimal weights that results in minimal vertical effect between the explanatory and target variables, when combine with the input. In short if out expected output reflects the linear regression as shown below then linear activation functions can be used: (Top Figure).
 - But in the in the second figure below linear function will not produce the desired results:(Middle figure)
