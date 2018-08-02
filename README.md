@@ -68,7 +68,7 @@
 # 3. ReLU (Rectified Linear Unit) Activation Function
 
 - The ReLU is the most used activation function in the world right now.Since, it is used in almost all the convolutional neural networks or deep learning.
-<img src="/home/pritam/Documents/M_L/multiprocess/1*XxxiA0jJvPrHEJHD4z893g.png" width="350">
+<img src="images/1*XxxiA0jJvPrHEJHD4z893g.png" width="350">
 
 - As you can see, the ReLU is half rectified (from bottom). f(z) is zero when z is less than zero and f(z) is equal to z when z is above or equal to zero.
 
@@ -114,7 +114,7 @@
 
 - tf.nn.relu6 is similar to tf.nn.relu but it limits the maximum output to 6 this limitation reduces the likelihood of a node overreacting to large inputs.
 
-<img src="/home/pritam/Documents/M_L/multiprocess/relu6.png" width="600">
+<img src="images/relu6.png" width="600">
 
 ## 
 <http>https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6</http>
